@@ -267,6 +267,7 @@ export default [
     'machine learning',
     'made simple',
     'magical',
+    'manager',
     'market (chang(er|ing)|leader|window|simplified|fit)',
     'market.ready',
     'marketing collateral',
